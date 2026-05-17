@@ -14,7 +14,7 @@ By completeling this project, I will demonstrate skills in:
 - CSS styling (fonts, spacing, layout)
 - page structure and hierachy
 - Basic UI design principles
-- 
+
   
 ## Reflection (to be completed)
 After finishing the project, I will reflect on what I learned
